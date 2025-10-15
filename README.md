@@ -30,4 +30,3 @@
 ## Lưu ý
 - Độ chính xác OCR: Thêm logic tinh chỉnh Tesseract trong app.py để đạt ≥80%.
 - Hỗ trợ ngôn ngữ: Sử dụng tham số lang trong pytesseract.
-- Code này chỉ là khung, bạn cần thêm logic chi tiết cho OCR.
